@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/smart-hangout/static/css/main.53f84665.css",
-    "main.js": "/smart-hangout/static/js/main.1c2d271d.js",
+    "main.css": "/smart-hangout/static/css/main.5500b2cc.css",
+    "main.js": "/smart-hangout/static/js/main.54981c4c.js",
     "static/js/453.a4740b34.chunk.js": "/smart-hangout/static/js/453.a4740b34.chunk.js",
     "index.html": "/smart-hangout/index.html",
-    "main.53f84665.css.map": "/smart-hangout/static/css/main.53f84665.css.map",
-    "main.1c2d271d.js.map": "/smart-hangout/static/js/main.1c2d271d.js.map",
+    "main.5500b2cc.css.map": "/smart-hangout/static/css/main.5500b2cc.css.map",
+    "main.54981c4c.js.map": "/smart-hangout/static/js/main.54981c4c.js.map",
     "453.a4740b34.chunk.js.map": "/smart-hangout/static/js/453.a4740b34.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.53f84665.css",
-    "static/js/main.1c2d271d.js"
+    "static/css/main.5500b2cc.css",
+    "static/js/main.54981c4c.js"
   ]
 }
