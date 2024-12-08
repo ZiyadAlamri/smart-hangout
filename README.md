@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f268d5bd-2b87-4ffe-8ba5-f4faabcf2335)Smart Hangout is an innovative web application designed to simplify and enhance social planning experiences. Whether you're organizing a casual outing with friends, a family gathering, or a solo adventure, Smart Hangout provides all the tools you need to make informed decisions.
+Smart Hangout is an innovative web application designed to simplify and enhance social planning experiences. Whether you're organizing a casual outing with friends, a family gathering, or a solo adventure, Smart Hangout provides all the tools you need to make informed decisions.
 
 
 Build Instructions
