@@ -38,13 +38,6 @@ arduino
 Copy code
 http://localhost:3000
 
-![Homepage](https://github.com/user-attachments/assets/cce73db1-33f9-45f3-845c-867830fa8024)
-
-![Weatherpage](https://github.com/user-attachments/assets/b012e243-6843-46c0-83fd-f48cb9cd3c75)
-
-![Restaurantspage](https://github.com/user-attachments/assets/42645f2d-1486-4dd0-b826-2ac890699587)
-
-![Eventspage](https://github.com/user-attachments/assets/069598c1-3ba7-46fe-9043-77f00ef070f6)
 
 
 
