@@ -1,1 +1,1 @@
-# smart-hangout
+Smart Hangout is an innovative web application designed to simplify and enhance social planning experiences. Whether you're organizing a casual outing with friends, a family gathering, or a solo adventure, Smart Hangout provides all the tools you need to make informed decisions.
